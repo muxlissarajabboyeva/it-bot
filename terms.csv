@@ -1,0 +1,107 @@
+english_word;full_form;uzbek_translation;explanation;example;level
+algorithm;—;algoritm;Muammoni hal qilish uchun qadamma-qadam ko'rsatmalar to'plami.;Sorting algoritmi ma'lumotlarni tartiblaydi.;beginner
+app;Application;ilova;Foydalanuvchi ishlatadigan dastur.;Telegram — mobil ilova.;beginner
+backup;—;zaxira nusxa;Ma'lumotlarning qo'shimcha nusxasi.;Fayllarni bulutga backup qilish kerak.;beginner
+browser;—;brauzer;Internet sahifalarni ochadigan dastur.;Chrome va Firefox brauzer hisoblanadi.;beginner
+bug;—;xato;Dasturdagi nosozlik yoki kutilmagan xatolik.;Login qismida bug topildi.;beginner
+cloud;—;bulutli xizmat;Internet orqali saqlash yoki hisoblash muhiti.;Google Drive bulutli xizmat.;beginner
+code;—;kod;Dasturchi yozadigan buyruqlar to'plami.;Python kodi terminalda ishga tushdi.;beginner
+computer;—;kompyuter;Hisoblash va dasturlarni bajaruvchi qurilma.;Kompyuterda IDE o'rnatildi.;beginner
+cpu;Central Processing Unit;markaziy protsessor;Kompyuterning asosiy hisoblash qismi.;CPU dastur buyruqlarini bajaradi.;beginner
+css;Cascading Style Sheets;uslublar jadvali;Veb sahifa ko'rinishini belgilovchi til.;Tugma ranglari CSS bilan beriladi.;beginner
+data;—;ma'lumot;Saqlanadigan yoki qayta ishlanadigan axborot.;Jadvaldagi barcha data bazada saqlanadi.;beginner
+database;—;ma'lumotlar bazasi;Tartiblangan ma'lumotlar saqlanadigan joy.;SQLite kichik database hisoblanadi.;beginner
+debug;—;xatoni tuzatish;Koddagi xatolarni topish va tuzatish jarayoni.;Debug paytida print ishlatildi.;beginner
+desktop;—;ish stoli / kompyuter uchun;Kompyuterda ishlaydigan muhit yoki ilova turi.;Desktop ilova Windowsda ishlaydi.;beginner
+file;—;fayl;Saqlangan ma'lumot birligi.;main.py — Python fayli.;beginner
+folder;—;papka;Fayllarni saqlovchi katalog.;Loyiha alohida folderda turadi.;beginner
+frontend;—;foydalanuvchiga ko'rinadigan qism;Dastur yoki saytning tashqi qismi.;Button va menyular frontendga kiradi.;beginner
+hardware;—;qurilma qismi;Kompyuterning jismoniy qismlari.;Klaviatura hardware hisoblanadi.;beginner
+html;HyperText Markup Language;gipermatn belgilash tili;Veb sahifa tuzilmasini yaratish tili.;Sahifa skeleti HTML bilan yoziladi.;beginner
+internet;—;internet;Global tarmoq.;Sayt internet orqali ochiladi.;beginner
+ip;Internet Protocol;internet protokoli;Tarmoqdagi qurilma manzilini ifodalovchi protokol.;Har serverning IP manzili bo'ladi.;beginner
+keyboard;—;klaviatura;Matn kiritish qurilmasi.;Buyruqlar klaviatura orqali yoziladi.;beginner
+laptop;—;noutbuk;Ko'chma kompyuter.;Noutbukda VS Code ishladi.;beginner
+link;—;havola;Boshqa resursga olib boradigan manzil.;Telegram link yuborildi.;beginner
+login;—;kirish;Hisobga kirish jarayoni.;User email bilan login qildi.;beginner
+mobile;—;mobil;Telefon yoki planshetga tegishli.;Mobil ilova Play Store'da bor.;beginner
+monitor;—;monitor;Ekran qurilmasi.;Monitor o'lchami 24 dyuym.;beginner
+password;—;parol;Hisobni himoya qiluvchi maxfiy so'z.;Kuchli password ishlatish kerak.;beginner
+program;—;dastur;Kompyuter bajaradigan buyruqlar majmui.;Python program natija chiqardi.;beginner
+ram;Random Access Memory;tezkor xotira;Ishlayotgan dasturlar vaqtincha saqlanadigan xotira.;RAM ko'p bo'lsa ilova tezroq ishlaydi.;beginner
+save;—;saqlash;Ma'lumotni yozib qo'yish jarayoni.;Faylni save qilishni unutmang.;beginner
+screen;—;ekran;Tasvir ko'rsatiladigan qism.;Phone screen yorqinligi oshirildi.;beginner
+server;—;server;Ma'lumot yoki xizmat taqdim etuvchi kompyuter/tizim.;Bot serverda ishlaydi.;beginner
+software;—;dasturiy ta'minot;Kompyuterda ishlaydigan barcha dasturlar.;Antivirus software hisoblanadi.;beginner
+storage;—;saqlash xotirasi;Fayllar uzoq muddat saqlanadigan joy.;SSD storage tez ishlaydi.;beginner
+update;—;yangilash;Dastur yoki tizimning yangi versiyasini o'rnatish.;Telegram update qilindi.;beginner
+upload;—;yuklash;Faylni internetga yoki serverga yuborish.;Rasm saytga upload qilindi.;beginner
+url;Uniform Resource Locator;internet manzil;Veb resursning aniq manzili.;Brauzerda URL yozildi.;beginner
+username;—;foydalanuvchi nomi;Hisobni aniqlovchi nom.;Telegram username @ bilan boshlanadi.;beginner
+website;—;veb-sayt;Internet orqali ochiladigan sahifalar to'plami.;Bu website HTML va CSS bilan yozilgan.;beginner
+api;Application Programming Interface;dasturlararo aloqa interfeysi;Dasturlar bir-biri bilan ma'lumot almashishi uchun ishlatiladi.;Telegram botlar API orqali ishlaydi.;intermediate
+authentication;—;shaxsni tasdiqlash;Foydalanuvchi kimligini tekshirish jarayoni.;Parol va kod authentication misoli.;intermediate
+authorization;—;ruxsat berish;Tasdiqlangan foydalanuvchiga qanday huquq berilishini belgilash.;Admin panelga authorization kerak.;intermediate
+backend;—;ichki qism;Server, baza va biznes logikadan iborat qism.;Login logikasi backendda ishlaydi.;intermediate
+cache;—;kesh xotira;Tezroq ishlash uchun vaqtincha saqlanadigan ma'lumot.;Brauzer cache fayllarni tez ochadi.;intermediate
+cli;Command Line Interface;buyruq satri interfeysi;Matnli buyruqlar orqali boshqarish usuli.;PowerShell CLI hisoblanadi.;intermediate
+commit;—;saqlangan o'zgarish;Git'da o'zgarishlarni qayd etish amali.;Yangi commit GitHub'ga yuborildi.;intermediate
+compiler;—;kompilyator;Kodni mashina tushunadigan ko'rinishga aylantiruvchi dastur.;C++ compiler kodni yig'adi.;intermediate
+cookie;—;cookie;Brauzer saqlaydigan kichik ma'lumot bo'lagi.;Sayt login holatini cookie saqlashi mumkin.;intermediate
+deploy;—;ishga tushirish / joylash;Dastur tayyor bo'lgach serverga chiqarish jarayoni.;Botni hostingga deploy qildik.;intermediate
+framework;—;tayyor tuzilma;Dastur yaratishni tezlashtiruvchi asosiy skelet.;Django — Python framework.;intermediate
+git;—;versiya nazorati tizimi;Kod o'zgarishlarini boshqarish tizimi.;Loyihani Git orqali saqladik.;intermediate
+github;—;kod hosting xizmati;Git loyihalarni onlayn saqlash platformasi.;Repo GitHub'da turibdi.;intermediate
+host;—;joylashtirish / xost;Sayt yoki xizmat ishlaydigan muhit.;Fayl host serverga yuklandi.;intermediate
+http;HyperText Transfer Protocol;ma'lumot uzatish protokoli;Brauzer va server o'rtasida ma'lumot almashish qoidasi.;Sayt HTTP so'rov yuboradi.;intermediate
+https;HyperText Transfer Protocol Secure;xavfsiz HTTP;Shifrlangan ma'lumot uzatish protokoli.;Bank saytlari HTTPS ishlatadi.;intermediate
+ide;Integrated Development Environment;integrallashgan dasturlash muhiti;Kod yozish, ishga tushirish va debug qilish dasturi.;PyCharm va VS Code IDE sifatida ishlatiladi.;intermediate
+json;JavaScript Object Notation;ma'lumot almashish formati;Kalit-qiymat ko'rinishida ma'lumot saqlash formati.;API javobi JSON bo'lishi mumkin.;intermediate
+library;—;kutubxona;Tayyor kodlar to'plami.;Requests — Python library.;intermediate
+middleware;—;oraliq qatlam;So'rov va javob o'rtasida ishlovchi qism.;Auth middleware userni tekshiradi.;intermediate
+orm;Object-Relational Mapping;obyekt-relyatsion moslashtirish;Koddagi obyektlarni baza jadvallariga bog'lash usuli.;SQLAlchemy ORM misoli.;intermediate
+package;—;paket;Dastur yoki kutubxona tarqatish birligi.;Pip package o'rnatadi.;intermediate
+query;—;so'rov;Bazadan ma'lumot olish yoki o'zgartirish buyrug'i.;SELECT — SQL query.;intermediate
+repository;—;repozitoriy;Kod saqlanadigan loyiha ombori.;Git repository klon qilindi.;intermediate
+response;—;javob;Serverdan qaytgan natija.;API response status 200 keldi.;intermediate
+runtime;—;ishlash muhiti;Dastur ishlayotgan paytdagi muhit.;Node.js JavaScript runtime hisoblanadi.;intermediate
+sdk;Software Development Kit;dastur yaratish to'plami;Ma'lum platforma uchun dastur yozishga kerak vositalar to'plami.;Android SDK ilova yaratishda ishlatiladi.;intermediate
+session;—;sessiya;Foydalanuvchi faol holatining vaqtinchalik davri.;Login sessiyasi tugashi mumkin.;intermediate
+sql;Structured Query Language;ma'lumotlar bazasi so'rov tili;Relatsion bazalar bilan ishlash uchun til.;SELECT bu SQL operatori.;intermediate
+token;—;token;Tasdiqlash yoki avtorizatsiya uchun maxsus kalit.;Telegram bot token orqali ulanadi.;intermediate
+ui;User Interface;foydalanuvchi interfeysi;Foydalanuvchi ko'radigan boshqaruv qismi.;Buttonlar UI elementlari.;intermediate
+ux;User Experience;foydalanuvchi tajribasi;Mahsulotdan foydalanishdagi qulaylik va hissiyotlar.;Oddiy menyu yaxshi UX beradi.;intermediate
+version-control;—;versiya nazorati;Kod versiyalarini boshqarish usuli.;Git version-control vositasi.;intermediate
+webhook;—;avtomatik xabar yuborish mexanizmi;Bir tizimda hodisa bo'lsa boshqasiga xabar yuboradi.;Telegram webhook serverga update yuboradi.;intermediate
+abstraction;—;abstraksiya;Keraksiz detallarni yashirib, muhim qismlarni ajratish tamoyili.;Class ichida abstraksiya qo'llanadi.;advanced
+algorithmic-complexity;—;algoritmik murakkablik;Algoritmning vaqt va xotira sarfini ifodalaydi.;Binary search O(log n) murakkablikka ega.;advanced
+asynchronous;—;asinxron;Vazifalar bir-birini kutmasdan ishlaydigan usul.;Aiogram asinxron framework.;advanced
+bandwidth;—;o'tkazuvchanlik;Tarmoq orqali ma'lumot uzatish hajmi.;Video qo'ng'iroq ko'p bandwidth talab qiladi.;advanced
+big-o;Big O Notation;Big O belgilanishi;Algoritm samaradorligini baholash usuli.;Bubble sort O(n?).;advanced
+ci/cd;Continuous Integration / Continuous Delivery;uzluksiz integratsiya va yetkazish;Kod testlanib avtomatik chiqarilishini tashkil qiladi.;GitHub Actions CI/CD uchun ishlatiladi.;advanced
+container;—;konteyner;Dastur va uning muhitini birga o'rab ishlatish usuli.;Docker container serverda ishga tushdi.;advanced
+concurrency;—;parallel ishlashga yaqin boshqaruv;Bir nechta vazifani navbatma-navbat samarali boshqarish.;Bot ko'p so'rovni concurrency bilan boshqaradi.;advanced
+dependency-injection;—;bog'liqlikni tashqaridan berish;Kerakli obyektni ichkarida yaratmay, tashqaridan uzatish usuli.;Testingda dependency injection qulay.;advanced
+docker;—;konteyner platformasi;Ilovalarni konteynerlarda ishlatish platformasi.;Botni Docker bilan joylashtirish mumkin.;advanced
+encapsulation;—;inkapsulyatsiya;Ma'lumot va metodlarni bitta obyekt ichida himoyalab saqlash tamoyili.;Private field encapsulation misoli.;advanced
+encryption;—;shifrlash;Ma'lumotni maxfiy ko'rinishga aylantirish usuli.;HTTPS trafikka encryption qo'llaydi.;advanced
+garbage-collection;—;xotirani avtomatik tozalash;Ishlatilmayotgan obyektlar xotirasini bo'shatish jarayoni.;Java'da garbage collection bor.;advanced
+indexing;—;indekslash;Bazadagi qidiruvni tezlashtiruvchi tuzilma.;Index katta jadval qidiruvini tezlashtiradi.;advanced
+inheritance;—;merosxo'rlik;Bir class boshqa class xususiyatlarini olish usuli.;Child class parent'dan inheritance oladi.;advanced
+latency;—;kechikish;So'rov va javob orasidagi vaqt.;Server latency yuqori bo'lsa sayt sekinlashadi.;advanced
+load-balancing;—;yuklamani taqsimlash;So'rovlarni bir nechta serverga teng taqsimlash usuli.;Load balancing xizmatni barqaror qiladi.;advanced
+microservice;—;mikroxizmat arxitekturasi;Tizimni kichik mustaqil xizmatlarga bo'lish usuli.;To'lov qismi alohida microservice bo'lishi mumkin.;advanced
+multithreading;—;ko'p oqimlilik;Bir dastur ichida bir nechta oqim bilan ishlash.;Multithreading og'ir vazifalarni tezlatishi mumkin.;advanced
+normalization;—;normallashtirish;Bazadagi takroriylikni kamaytirish qoidalari.;Jadvalni normalization qilish redundansni kamaytiradi.;advanced
+oop;Object-Oriented Programming;obyektga yo'naltirilgan dasturlash;Class va object asosida dastur yozish usuli.;Python OOP imkoniyatlarini qo'llab-quvvatlaydi.;advanced
+optimization;—;optimallashtirish;Kod yoki tizim samaradorligini oshirish jarayoni.;Query optimization tezlikni oshirdi.;advanced
+polymorphism;—;polimorfizm;Bir xil interfeysning turli ko'rinishda ishlashi.;Method overriding polymorphismga misol.;advanced
+protocol;—;protokol;Tizimlar orasidagi aloqa qoidalari to'plami.;HTTP tarmoq protokoli.;advanced
+recursion;—;rekursiya;Funksiyaning o'zini chaqirishi usuli.;Factorial recursion bilan yozilishi mumkin.;advanced
+refactoring;—;kodni qayta tuzish;Funksiyani o'zgartirmay kodni yaxshilash jarayoni.;Refactoring kodni toza qiladi.;advanced
+rest;Representational State Transfer;REST arxitektura uslubi;API yaratishda ishlatiladigan arxitektura tamoyili.;Ko'p backend'lar REST API beradi.;advanced
+scalability;—;masshtablanuvchanlik;Tizim yuklama oshganda ham ishlash qobiliyati.;Cloud xizmatlar scalability beradi.;advanced
+serialization;—;seriyalashtirish;Obyektni saqlash yoki uzatish uchun formatga aylantirish.;Model JSON ga serialization qilindi.;advanced
+sharding;—;bo'laklash;Katta bazani bir nechta qismlarga ajratish usuli.;Sharding juda katta loyihalarda ishlatiladi.;advanced
+thread;—;oqim;Jarayon ichidagi bajarilish yo'li.;Background thread faylni yukladi.;advanced
+virtualization;—;virtualizatsiya;Bitta jismoniy tizimda bir nechta virtual muhit yaratish.;VMware virtualization uchun ishlatiladi.;advanced
