@@ -1,7 +1,9 @@
 import asyncio
+import os
 import time
 from uuid import uuid4
 
+from aiohttp import web
 from aiogram import Bot, Dispatcher, F
 from aiogram.types import (
     Message, CallbackQuery, InlineKeyboardMarkup, InlineKeyboardButton,
@@ -20,13 +22,16 @@ from database import (
     get_level_label
 )
 
-BOT_TOKEN = "8760516195:AAHUj2MtEUtFy7MvfNrcNR4v_mn1fMY0xWI"
-CHANNEL_USERNAME = "@muxlissarajabboyeva"
+BOT_TOKEN = os.getenv("8760516195:AAHUj2MtEUtFy7MvfNrcNR4v_mn1fMY0xWI")
+CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@muxlissarajabboyeva")
 
 # Faqat o'zingizning Telegram IDingizni yozing
 ADMIN_IDS = [7918392848]
 
 COOLDOWN_SECONDS = 1.0
+
+if not BOT_TOKEN:
+    raise ValueError("BOT_TOKEN topilmadi. Render Environment Variables ga qo‘ying.")
 
 bot = Bot(
     token=BOT_TOKEN,
@@ -510,8 +515,23 @@ async def inline_query_handler(inline_query: InlineQuery):
     await inline_query.answer(results, cache_time=1, is_personal=True)
 
 
+async def handle(request):
+    return web.Response(text="Bot is running")
+
+
+async def start_webserver():
+    app = web.Application()
+    app.router.add_get("/", handle)
+    port = int(os.environ.get("PORT", 10000))
+    runner = web.AppRunner(app)
+    await runner.setup()
+    site = web.TCPSite(runner, "0.0.0.0", port)
+    await site.start()
+
+
 async def main():
     init_db()
+    await start_webserver()
     await dp.start_polling(bot)
 
 
