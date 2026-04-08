@@ -22,7 +22,7 @@ from database import (
     get_level_label
 )
 
-BOT_TOKEN = os.getenv("8760516195:AAHUj2MtEUtFy7MvfNrcNR4v_mn1fMY0xWI")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@muxlissarajabboyeva")
 
 # Faqat o'zingizning Telegram IDingizni yozing
