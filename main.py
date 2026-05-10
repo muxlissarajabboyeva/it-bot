@@ -2,6 +2,7 @@ import asyncio
 import os
 import time
 from uuid import uuid4
+from dotenv import load_dotenv
 
 from aiohttp import web
 from aiogram import Bot, Dispatcher, F
@@ -21,6 +22,7 @@ from database import (
     get_total_users, get_top_terms, add_term, update_term, delete_term,
     get_level_label
 )
+load_dotenv()
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@muxlissarajabboyeva")
