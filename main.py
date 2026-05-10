@@ -30,7 +30,7 @@ CHANNEL_USERNAME = os.getenv("CHANNEL_USERNAME", "@muxlissarajabboyeva")
 # Faqat o'zingizning Telegram IDingizni yozing
 ADMIN_IDS = [7918392848]
 
-COOLDOWN_SECONDS = 1.0
+COOLDOWN_SECONDS = 0.3
 
 if not BOT_TOKEN:
     raise ValueError("BOT_TOKEN topilmadi. Render Environment Variables ga qo‘ying.")
